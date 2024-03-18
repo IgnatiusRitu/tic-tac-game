@@ -36,5 +36,8 @@ npm run dev
 - `Square Component: `Renders an individual square on the board.
 - `calculateWinner function: `Utility function to determine the winner based on the current board state.
 
+## User Interface
+![Tic-Tac-Toe Interface](./image.png)
+
 ## Contribution 
 Feel free to contribute to this project by opening issues or submitting pull requests. Any improvements or bug fixes are welcome!
